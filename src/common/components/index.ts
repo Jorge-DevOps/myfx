@@ -1,2 +1,4 @@
-export {Menu} from './Menu';
-export {MenuItem} from './Menu/components/MenuItem';
+export { Menu } from "./menu";
+export { DoughnutChart } from "./charts/doughnut";
+export { MultiaxisLine } from "./charts/multiaxisLine";
+export { Modal } from "./modal";
